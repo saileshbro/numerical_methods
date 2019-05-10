@@ -10,4 +10,8 @@ This repository uses numpy and matplotlib
 
 ## Cosine graph
 
-![Sine](images/cosine.png?raw=true "Coine function Graph")
+![Sine](images/cosine.png?raw=true "Cosine function Graph")
+
+## Sine vs Cosine graph
+
+![Sine vs Cosine](images/sinevscosine.png?raw=true "Sine vs Cosine function Graph")

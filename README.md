@@ -15,3 +15,7 @@ This repository uses numpy and matplotlib
 ## Sine vs Cosine graph
 
 ![Sine vs Cosine](images/sinevscosine.png?raw=true "Sine vs Cosine function Graph")
+
+## Sub plot of grid 2x2
+
+![Subplot](images/subplot.jpg?raw=true "Subplot")

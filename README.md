@@ -22,9 +22,9 @@ This repository uses numpy and matplotlib
 
 ## Some equations 2D and 3D
 
-![Subplot](images/Figure_1?raw=true "Function and its Derivative")
-![Subplot](images/Figure_2?raw=true "Position, velocity and acceleration")
-![Subplot](images/Figure_3?raw=true "Projectile path and different initial velocity")
-![Subplot](images/Figure_4?raw=true "position of particles")
-![Subplot](images/3d1?raw=true "3D1")
-![Subplot](images/3d2?raw=true "3D2")
+![Subplot](images/Figure_1.png?raw=true "Function and its Derivative")
+![Subplot](images/Figure_2.png?raw=true "Position, velocity and acceleration")
+![Subplot](images/Figure_3.png?raw=true "Projectile path and different initial velocity")
+![Subplot](images/Figure_4.png?raw=true "position of particles")
+![Subplot](images/3d1.png?raw=true "3D1")
+![Subplot](images/3d2.png?raw=true "3D2")

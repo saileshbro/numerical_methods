@@ -19,3 +19,12 @@ This repository uses numpy and matplotlib
 ## Sub plot of grid 2x2
 
 ![Subplot](images/subplot.jpg?raw=true "Subplot")
+
+## Some equations 2D and 3D
+
+![Subplot](images/Figure_1?raw=true "Function and its Derivative")
+![Subplot](images/Figure_2?raw=true "Position, velocity and acceleration")
+![Subplot](images/Figure_3?raw=true "Projectile path and different initial velocity")
+![Subplot](images/Figure_4?raw=true "position of particles")
+![Subplot](images/3d1?raw=true "3D1")
+![Subplot](images/3d2?raw=true "3D2")
